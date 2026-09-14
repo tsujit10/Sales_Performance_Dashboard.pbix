@@ -47,7 +47,7 @@ The objective of this project is to analyze sales data and create an interactive
 
 ## 📷 Dashboard Preview
 
-![Sales Performance Dashboard](images/dashboard.png)
+![Sales Performance Dashboard](/dashboard.png)
 
 ## 💡 What I Practiced
 
